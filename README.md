@@ -1,4 +1,4 @@
-- # 유동혁
+# 유동혁
 
 * Email : ydh8485@naver.com
 * Github : [github.com/donghyuk-yoo](https://github.com/donghyuk-yoo)
