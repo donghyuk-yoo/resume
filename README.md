@@ -41,3 +41,6 @@
 - API를 이용하여 사용자의 현위치의 날씨 정보를 표시  
 - api, location, weather, temperature, loading  
 - Link : https://snack.expo.io/@git/github.com/YOODONGHYUK/weather_app
+
+# 관심사
+TypeScript, bem 방법론, REST API, AWS, 부트스트랩, meterial UI, docker, GrapeQL, jQuery, go
