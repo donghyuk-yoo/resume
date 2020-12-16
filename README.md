@@ -28,15 +28,15 @@ Link : https://donghyuk-yoo.github.io/JS-todo/
 ## 투두리스트 (React)
 사용자의 이름과 할 일 목록을 local storage에 저장하
 여 정보를 유지
-state, reducer, context, styled-component
+state, reducer, context, styled-component  
 Link : https://donghyuk-yoo.github.io/todolist/
 
 ## 영화 앱 (React)
 API를 이용 영화 포스터와 제목 장르 간단한 설명
-api, router, navigation
+api, router, navigation  
 Link : https://donghyuk-yoo.github.io/movie_app/
 
 ## 날씨 앱 (React Native expo)
 API를 이용하여 사용자의 현위치의 날씨 정보를 표시
-api, location, weather, temperature, loading
+api, location, weather, temperature, loading  
 Link : https://snackexpoio@gitgithubcomYOODONGHYUKweather_app
