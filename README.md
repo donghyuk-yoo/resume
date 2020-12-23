@@ -30,7 +30,7 @@
 - JavaScript  
 - 현재 시간 API를 이용하여 사용자의 현위치의 날씨 정보를 표시 사용자의 이름과 할 일 목록을 local storage에 저장하여 정보를 유지  
 - clock, todolist, location, weather, photo, offline support  
-- GitHub Repo : https://github.com/donghyuk-yoo/todolist  
+- GitHub Repo : https://github.com/donghyuk-yoo/JS-todo  
 - GitHub Pages Link : https://donghyuk-yoo.github.io/JS-todo/  
 
 ## todolist
