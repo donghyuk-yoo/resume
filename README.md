@@ -22,13 +22,14 @@
 ## JS-paint
 - JavaScript  
 - 브라우저에서 간단한 드로잉, 색 변경, 붓 굵기 변경, 배경색 지정, 그림을 JPEG 포맷으로 저장  
-- drawing, change brush color & thickness, save jpeg, modechange - fill, paint  
+- canvas, drawing, change brush color & thickness, save jpeg, modechange - fill, paint  
 - GitHub Repo : https://github.com/donghyuk-yoo/JS-paint
 - GitHub Pages Link : https://donghyuk-yoo.github.io/JS-paint/  
 
 ## JS-todo
 - JavaScript  
 - 현재 시간 API를 이용하여 사용자의 현위치의 날씨 정보를 표시 사용자의 이름과 할 일 목록을 local storage에 저장하여 정보를 유지  
+- 크롬 앱 모멘텀 클론 코딩
 - clock, todolist, location, weather, photo, offline support  
 - GitHub Repo : https://github.com/donghyuk-yoo/JS-todo  
 - GitHub Pages Link : https://donghyuk-yoo.github.io/JS-todo/  
