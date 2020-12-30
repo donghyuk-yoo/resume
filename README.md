@@ -71,4 +71,4 @@
 - GitHub Repo : https://github.com/donghyuk-yoo/movie_GraphQL  
 
 # 관심사
-TypeScript, GrapeQL, Nest.js, bem 방법론, REST API, AWS, 부트스트랩, meterial UI, docker, go
+TypeScript, GrapeQL, Nest.js, bem 방법론, go, REST API, AWS, docker
