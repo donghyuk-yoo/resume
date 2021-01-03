@@ -14,7 +14,7 @@
 
 # 프로젝트
 ## Github-Responsive-example
-- HTML ,CSS, JavaScript  
+- HTML, CSS, JavaScript  
 - 깃허브 홈페이지를 반응형으로 클론코딩  
 - GitHub Repo : https://github.com/donghyuk-yoo/Github-Responsive-example  
 - GitHub Pages Link : https://donghyuk-yoo.github.io/Github-Responsive-example/  
