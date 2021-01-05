@@ -21,14 +21,14 @@
 
 ## JS-paint
 - JavaScript  
-- 브라우저에서 간단한 드로잉, 색 변경, 붓 굵기 변경, 배경색 지정, 그림을 JPEG 포맷으로 저장  
+- 브라우저에서 간단한 드로잉, 색 변경, 붓 굵기 변경, 배경색 지정, JPEG 포맷으로 저장  
 - canvas, drawing, change brush color & thickness, save jpeg, modechange - fill, paint  
 - GitHub Repo : https://github.com/donghyuk-yoo/JS-paint
 - GitHub Pages Link : https://donghyuk-yoo.github.io/JS-paint/  
 
 ## JS-todo
 - JavaScript  
-- 현재 시간 API를 이용하여 사용자의 현위치의 날씨 정보를 표시 사용자의 이름과 할 일 목록을 local storage에 저장하여 정보를 유지  
+- API를 이용하여 사용자의 현위치의 날씨 정보를 표시, 사용자의 이름과 할일 목록을 local storage에 저장(오프라인 지원)
 - 크롬 앱 모멘텀 클론 코딩
 - clock, todolist, location, weather, photo, offline support  
 - GitHub Repo : https://github.com/donghyuk-yoo/JS-todo  
@@ -36,14 +36,14 @@
 
 ## todolist
 - React
-- 사용자의 이름과 할 일 목록을 local storage에 저장하여 정보를 유지  
+- 사용자의 이름과 할 일 목록을 local storage에 저장(오프라인 지원)  
 - state, reducer, context, styled-component  
 - GitHub Repo : https://github.com/donghyuk-yoo/todolist  
 - GitHub Pages Link : https://donghyuk-yoo.github.io/todolist/  
 
 ## movie_app
 - React
-- API를 이용 영화 포스터와 제목 장르 간단한 설명  
+- API를 이용, 영화 포스터와 제목 장르 간단한 설명  
 - api, router, navigation  
 - GitHub Repo : https://github.com/donghyuk-yoo/movie_app  
 - GitHub Pages Link : https://donghyuk-yoo.github.io/movie_app/  
