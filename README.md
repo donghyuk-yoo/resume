@@ -69,5 +69,15 @@
 - apollo_movie 프로젝트를 위한 local API Server
 - GitHub Repo : https://github.com/donghyuk-yoo/movie_GraphQL  
 
-# 관심사
+## cwitter  
+- React, Firebase  
+- 트위터를 React와 Firebase를 이용해 클론코딩  - 진행중
+- GitHub Repo : https://github.com/donghyuk-yoo/cwitter   
+
+## Vanilla Redux  
+- React, Redux  
+- Vanilla JavaScript와 React에서 Redux 사용법  - 진행중
+- GitHub Repo : https://github.com/donghyuk-yoo/vanilla-redux  
+
+### 관심사
 TypeScript, GrapeQL, Nest.js, bem 방법론, go, REST API, AWS, docker
