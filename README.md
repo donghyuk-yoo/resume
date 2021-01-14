@@ -16,14 +16,14 @@
 - HTML, CSS, JavaScript  
 - 깃허브 홈페이지를 반응형으로 클론코딩  
 - GitHub Repo : https://github.com/donghyuk-yoo/Github-Responsive-example  
-- GitHub Pages Link : https://donghyuk-yoo.github.io/Github-Responsive-example/  
+- Link : https://donghyuk-yoo.github.io/Github-Responsive-example/  
 
 ## JS-paint
 - JavaScript  
 - 브라우저에서 간단한 드로잉, 색 변경, 붓 굵기 변경, 배경색 지정, JPEG 포맷으로 저장  
 - canvas, drawing, change brush color & thickness, save jpeg, modechange - fill, paint  
 - GitHub Repo : https://github.com/donghyuk-yoo/JS-paint
-- GitHub Pages Link : https://donghyuk-yoo.github.io/JS-paint/  
+- Link : https://donghyuk-yoo.github.io/JS-paint/  
 
 ## JS-todo
 - JavaScript  
@@ -31,21 +31,21 @@
 - 크롬 앱 모멘텀 클론 코딩
 - clock, todolist, location, weather, photo, offline support  
 - GitHub Repo : https://github.com/donghyuk-yoo/JS-todo  
-- GitHub Pages Link : https://donghyuk-yoo.github.io/JS-todo/  
+- Link : https://donghyuk-yoo.github.io/JS-todo/  
 
 ## todolist
 - React
 - 사용자의 이름과 할 일 목록을 local storage에 저장(오프라인 지원)  
 - state, reducer, context, styled-component  
 - GitHub Repo : https://github.com/donghyuk-yoo/todolist  
-- GitHub Pages Link : https://donghyuk-yoo.github.io/todolist/  
+- Link : https://donghyuk-yoo.github.io/todolist/  
 
 ## movie_app
 - React
 - API를 이용, 영화 포스터와 제목 장르 간단한 설명  
 - api, router, navigation  
 - GitHub Repo : https://github.com/donghyuk-yoo/movie_app  
-- GitHub Pages Link : https://donghyuk-yoo.github.io/movie_app/  
+- Link : https://donghyuk-yoo.github.io/movie_app/  
 
 ## weather_app
 - React Native, expo  
