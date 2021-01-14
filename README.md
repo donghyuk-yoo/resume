@@ -78,6 +78,3 @@
 - React, Redux  
 - Vanilla JavaScript와 React에서 Redux 사용법  - 진행중
 - GitHub Repo : https://github.com/donghyuk-yoo/vanilla-redux  
-
-### 관심사
-TypeScript, GrapeQL, Nest.js, bem 방법론, go, REST API, AWS, docker
