@@ -35,7 +35,7 @@
 
 ## todolist
 - React
-- 사용자의 이름과 할 일 목록을 local storage에 저장(오프라인 지원)  
+- 할 일 목록 작성,삭제,토글
 - state, reducer, context, styled-component  
 - Link : https://donghyuk-yoo.github.io/todolist/  
 - GitHub Repo : https://github.com/donghyuk-yoo/todolist  
