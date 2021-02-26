@@ -58,22 +58,6 @@
 - 블록체인 생성
 - GitHub Repo : https://github.com/donghyuk-yoo/typechain  
 
-## apollo_movie
-- Apollo, GraphQL, React  
-- API를 이용 영화 포스터와 제목 장르 간단한 설명
-- styled-components, react-router-dom, react apollo, API
-- GitHub Repo : https://github.com/donghyuk-yoo/apollo_movie  
-
-## movie_GraphQL
-- GraphQL
-- apollo_movie 프로젝트를 위한 local API Server
-- GitHub Repo : https://github.com/donghyuk-yoo/movie_GraphQL  
-
-## cwitter  
-- React, Firebase  
-- 트위터를 React와 Firebase를 이용해 클론코딩  - 진행중
-- GitHub Repo : https://github.com/donghyuk-yoo/cwitter   
-
 ## Vanilla Redux  
 - React, Redux  
 - Vanilla JavaScript와 React에서 Redux 사용법  - 진행중
