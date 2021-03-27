@@ -58,6 +58,6 @@
 - GitHub Repo : https://github.com/donghyuk-yoo/typechain  
 
 ## Vanilla Redux  
-- React, Redux  
-- Vanilla JavaScript와 React에서 Redux 사용법  - 진행중
+- Vanilla Redux, React Redux, Redux Toolkit  
+- Vanilla JavaScript와 React에서 Redux 사용
 - GitHub Repo : https://github.com/donghyuk-yoo/vanilla-redux  
