@@ -15,14 +15,12 @@
 - HTML, CSS, JavaScript  
 - (구)깃허브 홈페이지를 반응형으로 클론코딩  
 - Link : https://donghyuk-yoo.github.io/Github-Responsive-example/  
-- GitHub Repo : https://github.com/donghyuk-yoo/Github-Responsive-example  
 
 ## JS-paint
 - JavaScript  
 - 브라우저에서 간단한 드로잉, 색 변경, 붓 굵기 변경, 배경색 지정, JPEG 포맷으로 저장  
 - canvas, drawing, change brush color & thickness, save jpeg, modechange - fill, paint  
 - Link : https://donghyuk-yoo.github.io/JS-paint/  
-- GitHub Repo : https://github.com/donghyuk-yoo/JS-paint
 
 ## JS-todo
 - JavaScript  
@@ -30,34 +28,41 @@
 - 크롬 앱 모멘텀 클론 코딩
 - clock, todolist, location, weather, photo, offline support  
 - Link : https://donghyuk-yoo.github.io/JS-todo/  
-- GitHub Repo : https://github.com/donghyuk-yoo/JS-todo  
 
 ## todolist
 - React
 - 할 일 목록 작성,삭제,토글
 - state, reducer, context, styled-component  
 - Link : https://donghyuk-yoo.github.io/todolist/  
-- GitHub Repo : https://github.com/donghyuk-yoo/todolist  
 
 ## movie_app
 - React
 - API를 이용, 영화 포스터와 제목 장르 간단한 설명  
 - api, router, navigation  
 - Link : https://donghyuk-yoo.github.io/movie_app/  
-- GitHub Repo : https://github.com/donghyuk-yoo/movie_app  
 
 ## weather_app
 - React Native, expo  
 - API를 이용하여 사용자의 현위치의 날씨 정보를 표시  
-- GitHub Repo : https://github.com/donghyuk-yoo/weather_app  
 - api, location, weather, temperature, loading  
 
 ## typechain 
 - TypeScript  
 - 블록체인 생성
-- GitHub Repo : https://github.com/donghyuk-yoo/typechain  
+
+## apollo_movie
+- Apollo GrapeQL React Movie App
+
+## movie_GraphQL
+- Movie API with GraphQL, Server for apollo_movie project
+
+## cwitter
+- cloning twitter with React and Firebase
 
 ## Vanilla Redux  
 - Vanilla Redux, React Redux, Redux Toolkit  
 - Vanilla JavaScript와 React에서 Redux 사용
-- GitHub Repo : https://github.com/donghyuk-yoo/vanilla-redux  
+
+## todo-app
+- react todo-app ver.2
+- React.memo, react-virtualized
