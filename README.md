@@ -52,6 +52,7 @@
 
 ## apollo_movie
 - Apollo GrapeQL React Movie App
+- styled-components, react-router-dom, react apollo
 
 ## movie_GraphQL
 - Movie API with GraphQL, Server for apollo_movie project
