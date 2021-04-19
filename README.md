@@ -41,29 +41,9 @@
 - api, router, navigation  
 - Link : https://donghyuk-yoo.github.io/movie_app/  
 
-## weather_app
-- React Native, expo  
-- API를 이용하여 사용자의 현위치의 날씨 정보를 표시  
-- api, location, weather, temperature, loading  
-
-## typechain 
-- TypeScript  
-- 블록체인 생성
-
-## apollo_movie
-- Apollo GrapeQL React Movie App
-- styled-components, react-router-dom, react apollo
-
-## movie_GraphQL
-- Movie API with GraphQL, Server for apollo_movie project
-
 ## cwitter
 - cloning twitter with React and Firebase
 - Link : https://donghyuk-yoo.github.io/cwitter/#/
-
-## Vanilla Redux  
-- Vanilla Redux, React Redux, Redux Toolkit  
-- Vanilla JavaScript와 React에서 Redux 사용
 
 ## todo-app
 - react todo-app ver.2
