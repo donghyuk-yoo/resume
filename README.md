@@ -18,7 +18,7 @@
 
 ## JS-todo
 - JavaScript  
-- API를 이용하여 사용자의 현위치의 날씨 정보를 표시, 사용자의 이름과 할일 목록을 local storage에 저장(오프라인 지원)
+- API 이용, 현위치의 날씨 정보 표시, 이름, 할일 목록을 local storage에 저장(오프라인)
 - 크롬 앱 모멘텀 클론 코딩
 - clock, todolist, location, weather, photo, offline support  
 - Link : https://donghyuk-yoo.github.io/JS-todo/  
