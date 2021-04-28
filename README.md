@@ -13,7 +13,7 @@
 # 프로젝트
 ## Github-Responsive-example
 - HTML, CSS, JavaScript  
-- (구)깃허브 홈페이지를 반응형으로 클론코딩  
+- 반응형 웹 페이지 
 
 ## JS-todo
 - JavaScript  
