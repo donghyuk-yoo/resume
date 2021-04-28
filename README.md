@@ -34,10 +34,6 @@
 - api, router, navigation  
 - Link : https://donghyuk-yoo.github.io/movie_app/  
 
-## cwitter
-- cloning twitter with React and Firebase
-- Link : https://donghyuk-yoo.github.io/cwitter/#/
-
 ## todo-app
 - react todo-app ver.2
 - React.memo, react-virtualized (컴포넌트 성능 최적화)
