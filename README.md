@@ -40,10 +40,6 @@
 - API를 이용하여 사용자의 현위치의 날씨 정보를 표시  
 - api, location, weather, temperature, loading  
 
-## typechain 
-- TypeScript  
-- 블록체인 생성
-
 ## apollo_movie
 - Apollo GrapeQL React Movie App
 - styled-components, react-router-dom, react apollo
