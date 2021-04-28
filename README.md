@@ -13,7 +13,8 @@
 # 프로젝트
 ## Github-Responsive-example
 - HTML, CSS, JavaScript  
-- 반응형 웹 페이지 
+- 반응형 
+- Link : https://donghyuk-yoo.github.io/Github-Responsive-example/
 
 ## JS-todo
 - JavaScript  
@@ -30,9 +31,33 @@
 
 ## movie_app
 - React
-- API를 이용, 영화 포스터와 제목 장르 간단한 설명  
+- API, 영화 포스터, 내용  
 - api, router, navigation  
 - Link : https://donghyuk-yoo.github.io/movie_app/  
+
+## weather_app
+- React Native, expo  
+- API를 이용하여 사용자의 현위치의 날씨 정보를 표시  
+- api, location, weather, temperature, loading  
+
+## typechain 
+- TypeScript  
+- 블록체인 생성
+
+## apollo_movie
+- Apollo GrapeQL React Movie App
+- styled-components, react-router-dom, react apollo
+
+## movie_GraphQL
+- Movie API with GraphQL, Server for apollo_movie project
+
+## cwitter
+- cloning twitter with React and Firebase
+- Link : https://donghyuk-yoo.github.io/cwitter/#/
+
+## Vanilla Redux  
+- Vanilla Redux, React Redux, Redux Toolkit  
+- Vanilla JavaScript와 React에서 Redux 사용
 
 ## todo-app
 - react todo-app ver.2
