@@ -40,13 +40,6 @@
 - API를 이용하여 사용자의 현위치의 날씨 정보를 표시  
 - api, location, weather, temperature, loading  
 
-## apollo_movie
-- Apollo GrapeQL React Movie App
-- styled-components, react-router-dom, react apollo
-
-## movie_GraphQL
-- Movie API with GraphQL, Server for apollo_movie project
-
 ## cwitter
 - cloning twitter with React and Firebase
 - Link : https://donghyuk-yoo.github.io/cwitter/#/
