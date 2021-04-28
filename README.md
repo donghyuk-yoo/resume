@@ -14,13 +14,6 @@
 ## Github-Responsive-example
 - HTML, CSS, JavaScript  
 - (구)깃허브 홈페이지를 반응형으로 클론코딩  
-- Link : https://donghyuk-yoo.github.io/Github-Responsive-example/  
-
-## JS-paint
-- JavaScript  
-- 브라우저에서 간단한 드로잉, 색 변경, 붓 굵기 변경, 배경색 지정, JPEG 포맷으로 저장  
-- canvas, drawing, change brush color & thickness, save jpeg, modechange - fill, paint  
-- Link : https://donghyuk-yoo.github.io/JS-paint/  
 
 ## JS-todo
 - JavaScript  
