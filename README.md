@@ -40,10 +40,6 @@
 - API를 이용하여 사용자의 현위치의 날씨 정보를 표시  
 - api, location, weather, temperature, loading  
 
-## cwitter
-- cloning twitter with React and Firebase
-- Link : https://donghyuk-yoo.github.io/cwitter/#/
-
 ## Vanilla Redux  
 - Vanilla Redux, React Redux, Redux Toolkit  
 - Vanilla JavaScript와 React에서 Redux 사용
