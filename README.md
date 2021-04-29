@@ -29,12 +29,6 @@
 - state, reducer, context, styled-component  
 - Link : https://donghyuk-yoo.github.io/todolist/  
 
-## movie_app
-- React
-- API, 영화 포스터, 내용  
-- api, router, navigation  
-- Link : https://donghyuk-yoo.github.io/movie_app/  
-
 ## weather_app
 - React Native, expo  
 - API를 이용하여 사용자의 현위치의 날씨 정보를 표시  
