@@ -35,14 +35,14 @@
 - api, router, navigation  
 - Link : https://donghyuk-yoo.github.io/movie_app/  
 
-## Vanilla Redux  
-- Vanilla Redux, React Redux, Redux Toolkit  
-- Vanilla JavaScript와 React에서 Redux 사용
-
 ## todo-app
 - react todo-app ver.2
 - React.memo, react-virtualized (컴포넌트 성능 최적화)
 - Link : https://donghyuk-yoo.github.io/todo-app/
+- 
+## Redux  
+- Vanilla Redux, React Redux, Redux Toolkit  
+- Vanilla JavaScript와 React에서 Redux 사용
 
 ## redux-middleware
 - redux-thunk
