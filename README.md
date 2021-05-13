@@ -46,8 +46,3 @@
 
 ## redux-middleware
 - redux-thunk
-
-## Bootstrap
-- UI-library
-
-## Meterial-UI
